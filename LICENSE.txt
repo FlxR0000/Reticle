@@ -1,0 +1,15 @@
+Reticle - Copyright (c) 2026 FlxR
+Coded by FlxR  |  Discord: fs.d
+
+All rights reserved, with the following permissions:
+
+1. You may use this software for personal, non-commercial purposes.
+2. You may share it only unmodified and complete, with this license and the
+   "Coded by FlxR / Discord: fs.d" credit left intact.
+3. You may not sell it, claim it as your own, or remove or change the credit.
+4. Modified versions may not be distributed without written permission from the author.
+   Contact: Discord fs.d
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. The author is not
+responsible for any damage, loss, or account action (including bans from online games
+or anti-cheat systems) resulting from its use. Use at your own risk.
